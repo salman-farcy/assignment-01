@@ -266,5 +266,41 @@ section{
 .latest-container .input-btn input:hover{
      outline: 2px solid #E55473;
 }
-
 /* 06 Latest section end --------------06 */
+
+/* 07 footer section start ------------07 */
+footer{
+     padding: 150px 240px;
+     background: #111010;
+}
+.footer-container{
+     text-align: center;
+}
+footer .footer-container h2{
+     color: #FFF;
+     font-family: Lato;
+     font-size: 48px;
+     font-weight: 800;
+}
+footer .footer-container span{
+     color: #E55473;
+}
+footer .footer-container p{
+     width: 500px;
+     text-align: center;
+     margin: 0 auto;
+     color: rgba(255, 255, 255, 0.90);
+     font-family: Lato;
+     font-size: 18px;
+     font-weight: 400;
+     line-height: 30px;
+     padding: 24px 0 32px 0;
+}
+footer .footer-container small{
+     color: rgba(255, 255, 255, 0.40);
+     font-family: Lato;
+     font-size: 16px;
+     font-weight: 400;
+     
+}
+/* 07 footer section start ------------07 */
