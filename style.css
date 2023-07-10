@@ -150,7 +150,7 @@ section{
 }
 /* suport section end --------------------03 */
 
-/* discount section start */
+/* discount section start ----------------04*/
 .discount-section{
      padding: 130px 0;
 }
@@ -182,4 +182,40 @@ section{
 .discount-container .discount-img{
      padding: 60px;
 }
-/* discount section end */
+/* discount section end -----------------04*/
+
+/* 05 instagram section start -----------05*/
+.instagram-section{
+     padding-top: 0;
+}
+/* nstagram-heading */
+.instagram-section .instagram-heading{
+     text-align: center;
+     width: 630px;
+     margin: 0 auto;
+}
+.instagram-heading .instagram-rap{
+     color: #272727;
+     font-family: Lato;
+     font-size: 40px;
+     font-weight: 800;
+}
+.instagram-heading .instagram-paragraph{
+     color: rgba(39, 39, 39, 0.60);
+     font-family: Lato;
+     font-size: 18px;
+     font-weight: 400;
+     line-height: 30px;
+     padding-top: 24px;
+}
+/* imagesh container */
+.instagram-container{
+     display:flex;
+     align-items: center;
+     justify-content: center;
+     gap: 20px;
+     text-align: center;
+     margin-top: 50px;
+}
+
+/* 05 instagram section end -----------05*/
