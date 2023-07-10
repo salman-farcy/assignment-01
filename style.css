@@ -149,3 +149,37 @@ section{
      font-weight: 600;
 }
 /* suport section end --------------------03 */
+
+/* discount section start */
+.discount-section{
+     padding: 130px 0;
+}
+.discount-section .discount-container{
+     display:flex;
+     align-items: center;
+     justify-content: center;
+     background: rgba(229, 84, 115, 0.05);
+     text-align: center;
+     gap: 200px;
+}
+.discount-information .discount-heding{
+     color: #272727;
+     font-family: Lato;
+     font-size: 40px;
+     font-weight: 800;
+}
+.discount-information span{
+     color: #E55473;
+}
+.discount-information .discount-para{
+     width: 600px;
+     font-family: Lato;
+     font-size: 18px;
+     font-weight: 400;
+     line-height: 30px;
+     padding: 24px 0 32px 0;
+}
+.discount-container .discount-img{
+     padding: 60px;
+}
+/* discount section end */
