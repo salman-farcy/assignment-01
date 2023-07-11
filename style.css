@@ -68,6 +68,70 @@ section{
 }
 /* 01 header section end -----------------01*/
 
+/* (extra section), order flowers section start */
+.order-flowers{
+     padding-bottom: 0;
+}
+.order-heading{
+     text-align: center;
+}
+.order-heading .order-titel{
+     color: #272727;
+     font-family: Lato;
+     font-size: 40px;
+     font-weight: 800;
+}
+.order-heading .order-dtail{
+     width: 600px;
+     margin: 0 auto;
+     color: rgba(39, 39, 39, 0.60);
+     font-family: Lato;
+     font-size: 18px;
+     font-weight: 400;
+     line-height: 30px;
+     padding-top: 24px;
+}
+/* order section */
+.order-container{
+     margin-top: 50px;
+     display:flex;
+     align-items: center;
+     justify-content: space-between;
+}
+.order-category .order-system p{
+     color: #272727;
+     font-family: Lato;
+     font-size: 24px;
+     font-weight: 700;
+     line-height: 35px;
+     padding: 10px 0;
+}
+.order-category img:hover{
+     outline: 2px solid #E55473;
+}
+.order-category .order-system small{
+     color: rgba(39, 38, 38, 0.4);
+     font-family: Lato;
+     font-size: 15px;
+     font-weight: 400;
+}
+.order-category .price-order{
+     display:flex;
+     align-items: center;
+     justify-content: space-between;
+     margin-top: 20px;
+}
+.order-category .price-order span{
+     font-size: 35px;
+     font-weight: 600;
+     font-family: Lato;
+     color: #E55473;
+}
+.order-category .price-order .order-btn{
+     padding: 12px 18px;
+}
+/* (extra section), order flowers section end */
+
 /* 02 flowers section start --------------02*/
 /* heading content */
 .flowers-wraper .wraper-heading{
